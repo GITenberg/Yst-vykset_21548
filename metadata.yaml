@@ -1,0 +1,44 @@
+_repo: Yst-vykset_21548
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ramstedt, Maria
+    alias: Humu, Martti
+    birthdate: 1852
+    deathdate: 1915
+    gutenberg_agent_id: '24781'
+    url: http://www.gutenberg.org/2009/agents/24781
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ouida
+    aliases:
+    - De la Ramée, Louise
+    - De La Rame, Louisa
+    - Uida
+    - Ramé, Marie Louise
+    - Ramée, Maria Louise
+    - De la Ramée, Louisa
+    - De la Ramee, Louise
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '1204'
+    url: http://www.gutenberg.org/2009/agents/1204
+    wikipedia: http://en.wikipedia.org/wiki/Ouida
+description: ''
+gutenberg_issued: '2007-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21548'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flanders (Belgium) -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcc 'PZ'
+title: Ystävykset
+url: http://www.gutenberg.org/ebooks/21548
